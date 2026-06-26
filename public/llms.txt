@@ -1,0 +1,92 @@
+# Michael Premium Holidays — Generative Engine Optimization Map
+
+> Michael Premium Holidays is a luxury travel agency brand offering premium vacation packages to high-end destinations including Dubai, Greece, Thailand, Italy, and Cyprus. The brand exudes exclusivity and professionalism, targeting discerning travelers who seek curated, top-tier holiday experiences. The website vision emphasizes fast performance, strong SEO and GEO optimization, high conversion rates, and a sophisticated visual identity that communicates trust, prestige, and personalized service.
+
+---
+
+## Pages
+
+### בית
+https://michael-premium-holidays-d90269b0.zappy5.app
+מחפשים אטרקציה תיירותית קרובה אליי? גלו חבילות נופש יוקרתיות לדובאי, יוון, תאילנד, איטליה וקפריסין עם שירות אישי ומוקפד. התחילו לתכנן את החופשה המושלמת עוד היום.
+
+### אודות
+https://michael-premium-holidays-d90269b0.zappy5.app/about
+הכירו את הסיפור של Michael Premium Holidays, סוכנות תיירות מובילה שמתמחה ביצירת חוויות נופש מותאמות אישית ביעדים הכי נחשקים. הקליקו כדי לגלות איך אנחנו הופכים חלומות למציאות.
+
+### מבצעים וחבילות
+https://michael-premium-holidays-d90269b0.zappy5.app/deals-packages
+מבצעים חמים על מקומות תיירותיים קרובים אליי מחכים לכם כאן! צללו למגוון חבילות נופש יוקרתיות במחירים אטרקטיביים ליעדים כמו תאילנד וקפריסין. הזמינו עכשיו ותתחילו לארוז.
+
+### יעדים
+https://michael-premium-holidays-d90269b0.zappy5.app/destinations
+חקרו את היעדים האקזוטיים ביותר שלנו: מדובאי הנוצצת ועד רומא הרומנטית. מצאו אטרקציות תיירותיות לידכם שמובילות לחוויות בלתי נשכחות. לאן תרצו לטוס הלאה?
+
+### בלוג
+https://michael-premium-holidays-d90269b0.zappy5.app/blog
+בלוג התיירות שלנו מפוצץ במדריכים, טיפים והשראה על מקומות תיירותיים קרובים אליי, טיולי קבוצות מאורגנים וחוויות יוקרה. היכנסו עכשיו וקחו את החופשה שלכם צעד קדימה.
+
+### צור קשר
+https://michael-premium-holidays-d90269b0.zappy5.app/contact
+מוכנים לצאת לחופשת היוקרה הבאה שלכם? צרו איתנו קשר עוד היום! בין אם זו אטרקציה תיירותית קרובה אליי או טיול קבוצתי מאורגן, הצוות שלנו כאן כדי להגשים לכם כל משאלה.
+
+### תודה שפניתם | Michael Premium Holidays
+https://michael-premium-holidays-d90269b0.zappy5.app/thank-you
+Michael Premium Holidays - תודה שפניתם | Michael Premium Holidays
+
+## Legal & Policy
+
+### Privacy Policy
+https://michael-premium-holidays-d90269b0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://michael-premium-holidays-d90269b0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://michael-premium-holidays-d90269b0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://michael-premium-holidays-d90269b0.zappy5.app/contact
+- Endpoint: https://michael-premium-holidays-d90269b0.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Michael Premium Holidays
+Michael Premium Holidays is a luxury travel agency brand offering premium vacation packages to high-end destinations including Dubai, Greece, Thailand, Italy, and Cyprus. The brand exudes exclusivity and professionalism, targeting discerning travelers who seek curated, top-tier holiday experiences. The website vision emphasizes fast performance, strong SEO and GEO optimization, high conversion rates, and a sophisticated visual identity that communicates trust, prestige, and personalized service.
+
+## Target Audience
+- אנשים המחפשים חופשות פרימיום ויוקרתיות
+- נופשים יוקרתיים
+- אנשי עסקים
+- זוגות בירח דבש
+- מסיבות רווקים ורווקות
+
+## Industry
+Travel & Tourism
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://michael-premium-holidays-d90269b0.zappy5.app/sitemap.xml
+- Robots: https://michael-premium-holidays-d90269b0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://michael-premium-holidays-d90269b0.zappy5.app/llms-full.txt
